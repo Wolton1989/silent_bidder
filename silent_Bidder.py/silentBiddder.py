@@ -1,6 +1,6 @@
 import os
 from art2 import logo
-
+ 
 print(logo)
 
 # Initialize an empty dictionary to store bids
