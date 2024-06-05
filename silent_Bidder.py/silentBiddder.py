@@ -1,4 +1,3 @@
-    
 import os
 from art2 import logo
 
